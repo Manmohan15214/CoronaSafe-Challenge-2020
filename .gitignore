@@ -4,4 +4,6 @@ package.json
 .vscode/settings.json
 .vscode/launch.json
 .vscode/tasks.json
-
+todo.o
+.gitignore
+todo.out
